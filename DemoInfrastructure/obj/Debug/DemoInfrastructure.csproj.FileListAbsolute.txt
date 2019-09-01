@@ -1,0 +1,11 @@
+C:\Users\Adem\source\repos\DemoCore\DemoInfrastructure\bin\Debug\DemoInfrastructure.dll
+C:\Users\Adem\source\repos\DemoCore\DemoInfrastructure\bin\Debug\DemoInfrastructure.pdb
+C:\Users\Adem\source\repos\DemoCore\DemoInfrastructure\bin\Debug\DemoApplication.dll
+C:\Users\Adem\source\repos\DemoCore\DemoInfrastructure\bin\Debug\DemoDomain.dll
+C:\Users\Adem\source\repos\DemoCore\DemoInfrastructure\bin\Debug\DemoApplication.pdb
+C:\Users\Adem\source\repos\DemoCore\DemoInfrastructure\bin\Debug\DemoDomain.pdb
+C:\Users\Adem\source\repos\DemoCore\DemoInfrastructure\obj\Debug\DemoInfrastructure.csprojAssemblyReference.cache
+C:\Users\Adem\source\repos\DemoCore\DemoInfrastructure\obj\Debug\DemoInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\DemoCore\DemoInfrastructure\obj\Debug\DemoInfrastructure.csproj.CopyComplete
+C:\Users\Adem\source\repos\DemoCore\DemoInfrastructure\obj\Debug\DemoInfrastructure.dll
+C:\Users\Adem\source\repos\DemoCore\DemoInfrastructure\obj\Debug\DemoInfrastructure.pdb

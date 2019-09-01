@@ -1,0 +1,14 @@
+C:\Users\Adem\source\repos\DemoCore\DemoConsole\bin\Debug\DemoConsole.exe.config
+C:\Users\Adem\source\repos\DemoCore\DemoConsole\bin\Debug\DemoConsole.exe
+C:\Users\Adem\source\repos\DemoCore\DemoConsole\bin\Debug\DemoConsole.pdb
+C:\Users\Adem\source\repos\DemoCore\DemoConsole\bin\Debug\DemoApplication.dll
+C:\Users\Adem\source\repos\DemoCore\DemoConsole\bin\Debug\DemoDomain.dll
+C:\Users\Adem\source\repos\DemoCore\DemoConsole\bin\Debug\DemoInfrastructure.dll
+C:\Users\Adem\source\repos\DemoCore\DemoConsole\bin\Debug\DemoApplication.pdb
+C:\Users\Adem\source\repos\DemoCore\DemoConsole\bin\Debug\DemoDomain.pdb
+C:\Users\Adem\source\repos\DemoCore\DemoConsole\bin\Debug\DemoInfrastructure.pdb
+C:\Users\Adem\source\repos\DemoCore\DemoConsole\obj\Debug\DemoConsole.csprojAssemblyReference.cache
+C:\Users\Adem\source\repos\DemoCore\DemoConsole\obj\Debug\DemoConsole.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\DemoCore\DemoConsole\obj\Debug\DemoConsole.csproj.CopyComplete
+C:\Users\Adem\source\repos\DemoCore\DemoConsole\obj\Debug\DemoConsole.exe
+C:\Users\Adem\source\repos\DemoCore\DemoConsole\obj\Debug\DemoConsole.pdb

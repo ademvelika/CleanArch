@@ -1,0 +1,6 @@
+C:\Users\Adem\source\repos\DemoCore\DemoDomain\bin\Debug\DemoDomain.dll
+C:\Users\Adem\source\repos\DemoCore\DemoDomain\bin\Debug\DemoDomain.pdb
+C:\Users\Adem\source\repos\DemoCore\DemoDomain\obj\Debug\DemoDomain.csprojAssemblyReference.cache
+C:\Users\Adem\source\repos\DemoCore\DemoDomain\obj\Debug\DemoDomain.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\DemoCore\DemoDomain\obj\Debug\DemoDomain.dll
+C:\Users\Adem\source\repos\DemoCore\DemoDomain\obj\Debug\DemoDomain.pdb
