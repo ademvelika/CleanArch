@@ -41,9 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\IBaseRepository.cs" />
     <Compile Include="Interfaces\UseCases\IGetPersonInteractor.cs" />
     <Compile Include="IRequestUseCase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Respositories\ICustomerRespository.cs" />
     <Compile Include="Respositories\IPersonRespository.cs" />
     <Compile Include="UseCases\GetPersonUseCase.cs" />
   </ItemGroup>

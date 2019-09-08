@@ -4,6 +4,7 @@ using DemoApplication.Interfaces.UseCases;
 using DemoApplication.Respositories;
 using DemoApplication.UseCases;
 using DemoInfrastructure;
+using DemoInfrastructure.Respository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,7 +36,9 @@ namespace DemoAPI
             builder.RegisterType<PersonRespository>()
                .As<IPersonRespository>()
                .InstancePerRequest();
-
+            builder.RegisterType<CustomerRepository>().
+                As<ICustomerRespository>();
+               
 
             IContainer container = builder.Build();
             var webApiResolver = new AutofacWebApiDependencyResolver(container);
